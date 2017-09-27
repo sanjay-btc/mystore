@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/BoTreeConsultingTeam/spree_chimpy.git
-  revision: 03e8eeae261c8c6a2400ada4304940a27d0b19ae
+  revision: 8f94fadeb36d3d6c0facca0fe6b005ff41025423
   branch: master
   specs:
     spree_chimpy (2.0.0.alpha)
