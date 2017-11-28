@@ -17,7 +17,11 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'spree', :github => 'spree/spree', :branch => '2-3-stable'
 gem 'spree_auth_devise', :github => 'spree/spree_auth_devise', :branch => '2-3-stable'
 gem 'spree_gateway', :github => 'spree/spree_gateway', :branch => '2-3-stable'
-gem 'spree_chimpy', :github => 'BoTreeConsultingTeam/spree_chimpy', :branch => 'master'
+gem 'spree_email_to_friend', github: 'spree-contrib/spree_email_to_friend', branch: '2-3-stable'
+#gem 'spree_chimpy', :github => 'BoTreeConsultingTeam/spree_chimpy', :branch => 'master'
+#gem 'spree_chimpy', :path => '../spree_chimpy'
+gem 'searchkick'
+gem 'spree_searchkick', :path => '../spree_searchkick'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
